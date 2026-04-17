@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
