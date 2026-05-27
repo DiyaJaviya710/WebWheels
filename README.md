@@ -70,11 +70,3 @@ WebWheels - Vehicle Marketplace Platform A comprehensive online vehicle marketpl
 - Gmail account for OTP/Invoice emails
 - Groq API key (free tier available)
 
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/webwheels.git
-cd webwheels
-
